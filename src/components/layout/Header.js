@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to='https://charts.zoocoin.cash/?exchange=ZooDex&pair=BITB-WFTM'>Chart</Link>
+                      <a href='https://charts.zoocoin.cash/?exchange=ZooDex&pair=BITB-WFTM'>Chart</a>
                     </li>
                   </ul>
                   {!hideSignin &&
