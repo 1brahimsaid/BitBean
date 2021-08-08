@@ -45,6 +45,7 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
+
             <div className="footer-copyright">Adapted by <a href="https://y.at/%F0%9F%92%B0%F0%9F%8D%97%F0%9F%90%BE%F0%9F%91%BB">24 dollars</a>. All right reserved.</div>
           </div>
         </div>
