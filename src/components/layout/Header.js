@@ -111,7 +111,10 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <a href='https://charts.zoocoin.cash/?exchange=ZooDex&pair=BITB-WFTM'>Chart</a>
+                      <a href='https://charts.zoocoin.cash/?exchange=ZooDex&pair=BITB-WFTM'>BITB Chart</a>
+                    </li>
+                    <li>
+                      <a href='https://charts.zoocoin.cash/?exchange=ZooDex&pair=gBEAN-WFTM'>gBEAN Chart</a>
                     </li>
                   </ul>
                   {!hideSignin &&
