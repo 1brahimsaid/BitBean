@@ -19,7 +19,10 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <a href='https://charts.zoocoin.cash/?exchange=ZooDex&pair=BITB-WFTM'>Chart</a>
+          <a href='https://charts.zoocoin.cash/?exchange=ZooDex&pair=BITB-WFTM'>BITB Chart</a>
+        </li>
+        <li>
+          <a href='https://charts.zoocoin.cash/?exchange=ZooDex&pair=gBEAN-WFTM'>gBEAN Chart</a>
         </li>
         <li>
           <a href='https://linktr.ee/bitbean'>Links</a>

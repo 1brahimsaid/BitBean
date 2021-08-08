@@ -122,7 +122,7 @@ const Header = ({
                         <a href='https://dex.zoocoin.cash/orders/market?outputCurrency=0xbAc5d43A56696e5D0CB631609E85798f564b513b&inputCurrency=FTM' className="button button-primary button-wide-mobile button-sm" >Buy BITB</a>
                       </li>
                       <li>
-                        <a href='https://dex.zoocoin.cash/orders/market?inputCurrency=FTM&outputCurrency=0x08D2043219223c6b4f9FC3B9f09f3771395307B8' className="button button-primary button-wide-mobile button-sm" >Buy gBEAN</a>
+                        <a href='https://dex.zoocoin.cash/orders/market?inputCurrency=FTM&outputCurrency=0x08D2043219223c6b4f9FC3B9f09f3771395307B8' className="button button-secondary button-wide-mobile button-sm" >Buy gBEAN</a>
                       </li>
                     </ul>}
                 </div>
