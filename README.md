@@ -1,13 +1,13 @@
 # BitBean Page
 
-![Open React template preview](https://user-images.githubusercontent.com/2683512/78789364-545e7100-79ad-11ea-9e3c-9528c99cda8e.png)
+![BitBean](https://i.gyazo.com/0804056260c3eedf0167ecd931169b15.png)
 
 **Open** is a **free React landing page template designed** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
 
 ## Live demo
 
 Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
-Check BitBean page here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
+Check BitBean page here 👉️ [https://bitbean.vercel.app/](https://bitbean.vercel.app/)
 
 
 In the project directory, you can run:
