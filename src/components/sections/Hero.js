@@ -73,7 +73,7 @@ const Hero = ({
                     Buy BITB
                     </Button>
                     <Button tag="a" color="secondary" wideMobile href="https://dex.zoocoin.cash/orders/market?inputCurrency=FTM&outputCurrency=0x08D2043219223c6b4f9FC3B9f09f3771395307B8">
-                    Buy gBEANS
+                    Buy gBEAN
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://dex.zoocoin.cash/farms/community">
                     Farms
